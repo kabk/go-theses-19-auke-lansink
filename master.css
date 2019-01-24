@@ -1,0 +1,78 @@
+html {
+  /* margin: 0px; */
+}
+
+body {
+  /* margin: 0px; */
+}
+
+#rbyv {
+position: absolute;
+left: 24px;
+top: 20px;
+font-family: helvetica;
+font-size: 15pt;
+}
+
+#name {
+position: absolute;
+right: 24px;
+top: 20px;
+font-family: helvetica;
+font-size: 15pt;
+}
+
+.flex{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  margin-top: 2.2em;
+}
+
+.leftdown{
+  font-family: helvetica;
+  font-size: 15pt;
+}
+
+.rightdown{
+  font-family: helvetica;
+  font-size: 15pt;
+}
+.spacer{
+  width:43em;
+}
+
+.captions{
+  font-family: helvetica;
+  font-size: 7pt;
+  font-weight: bold;
+  text-align: center;
+}
+
+.arrows {
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-bottom: 7px;
+
+
+}
+
+h2 {
+  margin: 0px;
+}
+
+.text{
+  width: 45em;
+  margin:auto;
+  padding-top: 3.5em;
+}
+
+p{
+  font-family: "Courier New", Courier, monospace;
+  margin: 0px;
+  line-height: 16pt;
+  font-size: 12pt;
+}
